@@ -136,12 +136,13 @@ body {
 .button{
   color: #fff;
   min-width: 260px;
-  min-height: 60px;
+  padding: 20px;
   text-align: center;
+  border: 2px solid #fff;
   box-sizing: border-box;
   border-radius: 6px;
   text-decoration: none;
-  padding: 20px;
+  min-height: 60px;
 }
 @media(max-width: 960px){
   .rocket{
